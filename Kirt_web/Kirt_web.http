@@ -1,0 +1,6 @@
+@Kirt_web_HostAddress = http://localhost:5137
+
+GET {{Kirt_web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
